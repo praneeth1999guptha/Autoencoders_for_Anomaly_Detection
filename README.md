@@ -1,6 +1,5 @@
 # Autoencoders_for_Anomaly_Detection
-Implement autoencoder and explore its application for a real-world problem related to anomaly detection.
-# Autoencoders for Anomaly Detection (AWS CloudWatch, NAB)
+
 
 _Unsupervised multi-metric time‑series anomaly detection using dense and LSTM autoencoders in PyTorch._
 
